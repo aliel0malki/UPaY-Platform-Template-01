@@ -1,17 +1,20 @@
 # UPaY-Platform-Template-01
-## --For Learning Only--
-### v0.67
+## -- Learning Only --
+### v0.68
 
-## What are the services of this website?
+## Website idea?
 
-Online e-wallet website. for Learning
+Online e-wallet like PayPal. 'for Learning'
 
 ## What languages are used?
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 - JAVASCRIPT
-- PYTHON (COMING SOON)
+
 
 ## End
 
 Thank You for reading. Make me happy by clicking on a STAR. 
+```
+Here is code
+```
