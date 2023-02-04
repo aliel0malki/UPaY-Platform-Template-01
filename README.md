@@ -1,5 +1,6 @@
-# UPaY-Platform-Template-01 v0.67
-# ---For Learning Only---
+# UPaY-Platform-Template-01
+## --For Learning Only--
+### v0.67
 
 ## What are the services of this website?
 
